@@ -1,0 +1,1 @@
+function stringRepeat(n, str){return str.repeat(n)}
